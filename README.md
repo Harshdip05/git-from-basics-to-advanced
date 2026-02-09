@@ -43,6 +43,31 @@ The primary objective of this repository is to provide a safe environment to pra
 
 ---
 
+## 🗂 Repository Structure
+
+This repository is organized to help you navigate through different Git concepts systematically:
+
+```text
+.
+├── Assets/
+│   └── git-graph.png          # Visual representation of the Git history
+├── bronze/
+│   └── bronze-data.txt        # Initial raw data exercise file
+├── gold/
+│   └── .gitkeep               # Ensures the directory is tracked even if empty
+├── .env                       # Example environment file (should be ignored!)
+├── .gitignore                 # Rules for files Git should not track
+├── api-secrets.txt            # Practice file for sensitive data management
+├── data-ingest.txt            # Basic ingestion practice file
+├── data-ingestion.txt         # Data flow practice file
+├── iot-data-ingestion.txt     # Specialized data flow practice file
+├── LICENSE                    # MIT License for the project
+└── README.md                  # Project documentation and guide
+```
+> Files are intentionally simple so the focus stays on **Git concepts**, not code complexity.
+
+---
+
 ## 🌲 Branching Strategy
 This repo follows a simplified **Git Flow** model to simulate professional environments:
 * `main`: The "production-ready" stable history.
