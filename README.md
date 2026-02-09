@@ -49,6 +49,13 @@ This repo follows a simplified **Git Flow** model to simulate professional envir
 * `develop`: The integration branch for features.
 * `feature/*`: Individual branches for specific learning exercises.
 
+### Visualizing the Workflow
+Below is a representation of how the commit history looks when using this strategy:
+
+<p align="center">
+  <img src="Assets/git-graph.png" alt="Git Graph Visualization" width="700">
+</p>
+
 ---
 
 ## 🚀 How to Use This Repo
