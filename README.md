@@ -89,9 +89,8 @@ Below is a representation of how the commit history looks when using this strate
     ```bash
     git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
     ```
-2.  **Explore the Exercises:** Check the `exercises/` folder for text-based prompts.
-3.  **Practice:** Follow the instructions in each file to perform specific Git commands.
-4.  **Break Things:** Don't be afraid to cause a merge conflict—that's the best way to learn how to fix them!
+2.  **Practice:** Understand and practice each file to perform specific Git commands.
+3.  **Break Things:** Don't be afraid to cause a merge conflict—that's the best way to learn how to fix them!
 
 ---
 
